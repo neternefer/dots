@@ -1,0 +1,44 @@
+{
+  "name": "spaceforecast",
+  "version": "1.0.0",
+  "description": "space weather forecast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server/server.js",
+    "dev": "nodemon src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neternefer/dots.git"
+  },
+  "keywords": [
+    "space",
+    "weather",
+    "forecast",
+    "node"
+  ],
+  "author": "neternefer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neternefer/dots/issues"
+  },
+  "homepage": "https://github.com/neternefer/dots#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "dotenv": "^8.2.0",
+    "html-loader": "^1.1.0",
+    "path": "^0.12.7",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
