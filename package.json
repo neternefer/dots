@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neternefer/dots.git"
+    "url": "git+https://github.com/neternefer/space_weather.git"
   },
   "keywords": [
     "space",
@@ -21,9 +21,9 @@
   "author": "neternefer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neternefer/dots/issues"
+    "url": "https://github.com/neternefer/space_weather/issues"
   },
-  "homepage": "https://github.com/neternefer/dots#readme",
+  "homepage": "https://github.com/neternefer/space_weather#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
