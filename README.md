@@ -1,4 +1,6 @@
 # Space Forecast
-Space weather forecast - Node, Express
+Project template for space weather forecast - Node, Express, NASA API
+
+
 
 
