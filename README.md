@@ -1,4 +1,4 @@
-# Garden of Time
+# Space Time
 Focus/timing app with css art planets.
 
 ##Technology
