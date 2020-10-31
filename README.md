@@ -1,18 +1,18 @@
 # Garden of Time
-Focus/timing app with css art flowers.
+Focus/timing app with css art planets.
 
 ##Technology
 HTML5, CSS, Javascript
 
 ##STEPS
-- Create one css flower
+- Create one css planet
 - Create 3 stages of growth
 - Design app views in Figma
 - Create structure
 - Add styling
 - Implement timer
-- Flower growth animation
-- Save grown flower - localStorage
+- Planet growth animation
+- Save complete planet - localStorage
 - Show current garden view - grid of flowers
 - Additional functionality
 
