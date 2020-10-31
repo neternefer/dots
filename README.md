@@ -2,7 +2,7 @@
 Focus/timing app with css art planets.
 
 ##Technology
-HTML5, CSS, Javascript
+HTML5, CSS, Javascript 
 
 ##STEPS
 - Create one css planet
@@ -13,8 +13,11 @@ HTML5, CSS, Javascript
 - Implement timer
 - Planet growth animation
 - Save complete planet - localStorage
-- Show current garden view - grid of flowers
-- Additional functionality
+- Show current galaxy view 
+- Additional functionality - animation, other planetary systems
+- Consider possible variants - Chrome plugin/node app
+
+
 
 
 
